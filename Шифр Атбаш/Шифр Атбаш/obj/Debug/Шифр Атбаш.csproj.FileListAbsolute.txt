@@ -1,0 +1,27 @@
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Шифр Атбаш.exe.config
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Шифр Атбаш.exe
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Шифр Атбаш.pdb
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.csproj.AssemblyReference.cache
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр_Атбаш.Properties.Resources.resources
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.csproj.GenerateResource.cache
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.csproj.CoreCompileInputs.cache
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.exe
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.pdb
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр_Атбаш.FormAuth.resources
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\System.Data.SQLite.dll
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\System.Data.SQLite.xml
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.csproj.CopyComplete
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр_Атбаш.Registration.resources
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр_Атбаш.Приложение.resources
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Database1.mdf
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Database1_log.ldf
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Шифр Атбаш.exe.manifest
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\Шифр Атбаш.application
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\EntityFramework.dll
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\EntityFramework.xml
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.exe.manifest
+C:\Users\vanos\source\repos\Шифр Атбаш\Шифр Атбаш\obj\Debug\Шифр Атбаш.application
